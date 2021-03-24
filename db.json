@@ -1,0 +1,15 @@
+Time_Dict=[
+{'ID':1,
+'Lokasyon':'Taksim',
+'Arac_Sayisi':12,
+'Tarhi':'10.10.10',
+'Saat':'12.18'
+},
+
+{'ID':2,
+'Lokasyon':'Besiktas',
+'Arac_Sayisi':17,
+'Tarhi':'11.10.10',
+'Saat':'11.18'
+}
+]
